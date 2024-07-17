@@ -8,8 +8,18 @@ This Power BI project focuses on creating a churn dashboard and performing a ris
 - `Pwc_Churn Dashboard.pbix`: The Power BI dashboard file.
 - `Pwc_Churn Dashboard.pdf`: Exported view of the dashboard in PDF format.
 - `02 Churn-Dataset.xlsx`: The original data source.
+- 
+**Insights & KPIs**
+  1. Churn Patterns
+  2. Service Utilization
+  3. Customer Demographics
+  4. Account info and Billing
+  5. Customer Interactions
+![Screenshot (206)](https://github.com/user-attachments/assets/5973dcd3-e64e-49a4-b11f-22687b36676c)
+![Screenshot (207)](https://github.com/user-attachments/assets/c1dc585e-fb68-4ba1-b8ed-df35fd2a6f9f)
+![Screenshot (208)](https://github.com/user-attachments/assets/06062590-21cb-46e9-a6cc-e896cb38e1d6)
 
-*Note: Screenshots are not available, but you can view the detailed dashboard in the PDF file.*
+*Note: you can view the detailed dashboard in the PDF file.*
 
 ## How to View
 
