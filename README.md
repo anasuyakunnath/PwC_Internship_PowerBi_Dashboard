@@ -1,4 +1,6 @@
-# 1. Power BI Dashboard Portfolio
+# Complete end to end Power BI projects as a part of PwC online internship
+
+# 1. Power BI Customer Retention Dashboard Portfolio
 
 This Power BI project focuses on creating a churn dashboard and performing a risk analysis for a telecom company. The aim is to help the company understand customer churn patterns and identify high-risk customers who are likely to leave.
 
@@ -35,6 +37,27 @@ The call centre analysis aims to evaluate key performance metrics and operationa
 5. Customer Feedback
 ![Screenshot (205)](https://github.com/user-attachments/assets/b0ad4bf8-b5d9-4701-b250-805f9f5fcae7)
 *Note: you can view the detailed dashboard in the PDF file.*
+
+## 3. Power BI Diversity & Inclusion Analysis
+Performing analysis on gender balance and other diversity metrics within a company, with dashboards showing employee distribution, promotion rates, turnover, and performance ratings.
+## Files
+-'03 Diversity-Inclusion': Dataset.xlsx The original data source.
+-'Diversity_PwC.pbix': The Power BI dashboard file.
+-'Diversity_PwC.pdf': The original data source.
+
+## Insights
+The Diversity & Inclusion (D&I) project in the PwC Power BI virtual internship focuses on analyzing workforce diversity metrics, such as gender balance, hiring practices, promotion rates, performance ratings, and turnover rates. Here are the key insights based on the analysis of this data:
+
+ **Key Insights**
+ 
+1. Gender Balance
+2. Diversity in Hiring
+3. Promotion Parameters
+4. Employee Turnover Analysis
+   
+![Screenshot (201)](https://github.com/user-attachments/assets/d5835b6b-878d-4b16-b049-d4306e323c5e)
+![Screenshot (202)](https://github.com/user-attachments/assets/07c89835-257d-44af-8b23-187634f002f5)
+![Screenshot (204)](https://github.com/user-attachments/assets/5f9b9445-1536-4c52-ae15-66576a86be19)
 
 ## How to View
 
