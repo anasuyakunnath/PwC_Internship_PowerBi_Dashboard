@@ -35,7 +35,8 @@ The call centre analysis aims to evaluate key performance metrics and operationa
 3. Call volume & Trends
 4. Agent Performance
 5. Customer Feedback
-![Screenshot (205)](https://github.com/user-attachments/assets/b0ad4bf8-b5d9-4701-b250-805f9f5fcae7)
+![Screenshot (205)](https://github.com/user-attachments/assets/b0971426-ff44-4949-9acd-92bfc6fa4160)
+
 *Note: you can view the detailed dashboard in the PDF file.*
 
 ## 3. Power BI Diversity & Inclusion Analysis
@@ -54,10 +55,10 @@ The Diversity & Inclusion (D&I) project in the PwC Power BI virtual internship f
 2. Diversity in Hiring
 3. Promotion Parameters
 4. Employee Turnover Analysis
-   
-![Screenshot (201)](https://github.com/user-attachments/assets/d5835b6b-878d-4b16-b049-d4306e323c5e)
-![Screenshot (202)](https://github.com/user-attachments/assets/07c89835-257d-44af-8b23-187634f002f5)
-![Screenshot (204)](https://github.com/user-attachments/assets/5f9b9445-1536-4c52-ae15-66576a86be19)
+![Screenshot (201)](https://github.com/user-attachments/assets/27fb2032-6a19-4d3e-879d-022d7738bac8)
+![Screenshot (202)](https://github.com/user-attachments/assets/8b7c7b5f-8910-44d2-ae19-56ca6ed18483)
+![Screenshot (204)](https://github.com/user-attachments/assets/af5197cd-5057-432b-81b6-028136498de9)
+
 
 ## How to View
 
